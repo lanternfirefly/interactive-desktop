@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\HP\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HP\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_BLHXLIVE2DANIMATION.-2016667149.00" t="ExcludeRecursive" />
+    <e p="E:\Unity 3D\Unity2019\MyURoomC\BLHXLIVE2DANIMATION" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Live2D" t="Include">
+          <e p="Cubism" t="Include">
+            <e p="Core" t="Include">
+              <e p="ArrayExtensionMethods.cs" t="Include" />
+              <e p="ComponentExtensionMethods.cs" t="Include" />
+              <e p="CubismCanvasInformation.cs" t="Include" />
+              <e p="CubismDrawable.cs" t="Include" />
+              <e p="CubismDynamicDrawableData.cs" t="Include" />
+              <e p="CubismLogging.cs" t="Include" />
+              <e p="CubismMoc.cs" t="Include" />
+              <e p="CubismModel.cs" t="Include" />
+              <e p="CubismParameter.cs" t="Include" />
+              <e p="CubismPart.cs" t="Include" />
+              <e p="CubismTaskableModel.cs" t="Include" />
+              <e p="CubismTaskQueue.cs" t="Include" />
+              <e p="GameObjectExtensionMethods.cs" t="Include" />
+              <e p="ICubismTask.cs" t="Include" />
+              <e p="Unmanaged" t="Include">
+                <e p="ByteExtensionMethods.cs" t="Include" />
+                <e p="CubismCoreDll.cs" t="Include" />
+                <e p="CubismUnmanagedArrayView.cs" t="Include" />
+                <e p="CubismUnmanagedCanvasInformation.cs" t="Include" />
+                <e p="CubismUnmanagedDrawables.cs" t="Include" />
+                <e p="CubismUnmanagedMemory.cs" t="Include" />
+                <e p="CubismUnmanagedMoc.cs" t="Include" />
+                <e p="CubismUnmanagedModel.cs" t="Include" />
+                <e p="CubismUnmanagedParameters.cs" t="Include" />
+                <e p="CubismUnmanagedParts.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="AssetGuid.cs" t="Include" />
+              <e p="CubismAssetProcessor.cs" t="Include" />
+              <e p="CubismOriginalWorkflowSettings.cs" t="Include" />
+              <e p="CubismUnityEditorMenu.cs" t="Include" />
+              <e p="Deleters" t="Include">
+                <e p="CubismAnimationClipDeleter.cs" t="Include" />
+                <e p="CubismDeleter.cs" t="Include" />
+                <e p="CubismDeleterBase.cs" t="Include" />
+                <e p="CubismExpressionAssetDeleter.cs" t="Include" />
+                <e p="CubismFadeAssetDeleter.cs" t="Include" />
+                <e p="ICubismDeleter.cs" t="Include" />
+              </e>
+              <e p="Importers" t="Include">
+                <e p="ComponentExtensionMethods.cs" t="Include" />
+                <e p="CubismImporter.cs" t="Include" />
+                <e p="CubismImporterBase.cs" t="Include" />
+                <e p="CubismModel3JsonImporter.cs" t="Include" />
+                <e p="CubismMotion3JsonImporter.cs" t="Include" />
+                <e p="ICubismImporter.cs" t="Include" />
+              </e>
+              <e p="Inspectors" t="Include">
+                <e p="CubismLookControllerInspector.cs" t="Include" />
+                <e p="CubismMaskControllerInspector.cs" t="Include" />
+                <e p="CubismMaskTextureInspector.cs" t="Include" />
+                <e p="CubismParametersInspectorInspector.cs" t="Include" />
+                <e p="CubismPartsInspectorInspector.cs" t="Include" />
+                <e p="CubismRenderControllerInspector.cs" t="Include" />
+                <e p="CubismRendererInspector.cs" t="Include" />
+                <e p="CubismUserDataTagInspector.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Framework" t="Include">
+              <e p="ComponentExtensionMethods.cs" t="Include" />
+              <e p="CubismAutoEyeBlinkInput.cs" t="Include" />
+              <e p="CubismDontMoveOnReimportAttribute.cs" t="Include" />
+              <e p="CubismEyeBlinkController.cs" t="Include" />
+              <e p="CubismEyeBlinkParameter.cs" t="Include" />
+              <e p="CubismHitDrawable.cs" t="Include" />
+              <e p="CubismMoveOnReimportCopyComponentsOnly.cs" t="Include" />
+              <e p="CubismParameterBlendMode.cs" t="Include" />
+              <e p="CubismParameterExtensionMethods.cs" t="Include" />
+              <e p="CubismParametersInspector.cs" t="Include" />
+              <e p="CubismParameterStore.cs" t="Include" />
+              <e p="CubismPartsInspector.cs" t="Include" />
+              <e p="CubismUpdateController.cs" t="Include" />
+              <e p="CubismUpdateExecutionOrder.cs" t="Include" />
+              <e p="Expression" t="Include">
+                <e p="CubismExpressionController.cs" t="Include" />
+                <e p="CubismExpressionData.cs" t="Include" />
+                <e p="CubismExpressionList.cs" t="Include" />
+                <e p="CubismPlayingExpression.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="CubismExpression3JsonImporter.cs" t="Include" />
+                </e>
+              </e>
+              <e p="HarmonicMotion" t="Include">
+                <e p="CubismHarmonicMotionController.cs" t="Include" />
+                <e p="CubismHarmonicMotionDirection.cs" t="Include" />
+                <e p="CubismHarmonicMotionParameter.cs" t="Include" />
+              </e>
+              <e p="ICubismUpdatable.cs" t="Include" />
+              <e p="Json" t="Include">
+                <e p="CubismBuiltinPickers.cs" t="Include" />
+                <e p="CubismExp3Json.cs" t="Include" />
+                <e p="CubismJsonParser.cs" t="Include" />
+                <e p="CubismModel3Json.cs" t="Include" />
+                <e p="CubismMotion3Json.cs" t="Include" />
+                <e p="CubismPhysics3Json.cs" t="Include" />
+                <e p="CubismPose3Json.cs" t="Include" />
+                <e p="CubismUserData3Json.cs" t="Include" />
+              </e>
+              <e p="LookAt" t="Include">
+                <e p="CubismLookAxis.cs" t="Include" />
+                <e p="CubismLookController.cs" t="Include" />
+                <e p="CubismLookParameter.cs" t="Include" />
+                <e p="CubismLookTargetBehaviour.cs" t="Include" />
+                <e p="ICubismLookTarget.cs" t="Include" />
+              </e>
+              <e p="Motion" t="Include">
+                <e p="CubismMotionController.cs" t="Include" />
+                <e p="CubismMotionLayer.cs" t="Include" />
+                <e p="CubismMotionPriority.cs" t="Include" />
+                <e p="CubismMotionState.cs" t="Include" />
+              </e>
+              <e p="MotionFade" t="Include">
+                <e p="CubismFadeController.cs" t="Include" />
+                <e p="CubismFadeCurveType.cs" t="Include" />
+                <e p="CubismFadeMath.cs" t="Include" />
+                <e p="CubismFadeMotionData.cs" t="Include" />
+                <e p="CubismFadeMotionList.cs" t="Include" />
+                <e p="CubismFadePlayingMotion.cs" t="Include" />
+                <e p="CubismFadeStateObserver.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="CubismFadeMotionImporter.cs" t="Include" />
+                </e>
+                <e p="ICubismFadeState.cs" t="Include" />
+              </e>
+              <e p="MouthMovement" t="Include">
+                <e p="CubismAudioMouthInput.cs" t="Include" />
+                <e p="CubismAudioSamplingQuality.cs" t="Include" />
+                <e p="CubismAutoMouthInput.cs" t="Include" />
+                <e p="CubismMouthController.cs" t="Include" />
+                <e p="CubismMouthParameter.cs" t="Include" />
+              </e>
+              <e p="ObjectExtensionMethods.cs" t="Include" />
+              <e p="Physics" t="Include">
+                <e p="CubismPhysics.cs" t="Include" />
+                <e p="CubismPhysicsController.cs" t="Include" />
+                <e p="CubismPhysicsInput.cs" t="Include" />
+                <e p="CubismPhysicsMath.cs" t="Include" />
+                <e p="CubismPhysicsNormalization.cs" t="Include" />
+                <e p="CubismPhysicsOutput.cs" t="Include" />
+                <e p="CubismPhysicsParticle.cs" t="Include" />
+                <e p="CubismPhysicsRig.cs" t="Include" />
+                <e p="CubismPhysicsSourceComponent.cs" t="Include" />
+                <e p="CubismPhysicsSubRig.cs" t="Include" />
+              </e>
+              <e p="Pose" t="Include">
+                <e p="CubismPoseController.cs" t="Include" />
+                <e p="CubismPoseData.cs" t="Include" />
+                <e p="CubismPosePart.cs" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="CubismPoseMotionImporter.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Raycasting" t="Include">
+                <e p="CubismRaycastable.cs" t="Include" />
+                <e p="CubismRaycastablePrecision.cs" t="Include" />
+                <e p="CubismRaycaster.cs" t="Include" />
+                <e p="CubismRaycastHit.cs" t="Include" />
+              </e>
+              <e p="Tasking" t="Include">
+                <e p="CubismBuiltinAsyncTaskHandler.cs" t="Include" />
+              </e>
+              <e p="UserData" t="Include">
+                <e p="CubismUserDataBody.cs" t="Include" />
+                <e p="CubismUserDataTag.cs" t="Include" />
+                <e p="CubismUserDataTargetType.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Plugins" t="Include">
+              <e p="RedistributableFiles.txt" t="Include" />
+            </e>
+            <e p="Rendering" t="Include">
+              <e p="ArrayExtensionMethods.cs" t="Include" />
+              <e p="CubismBuiltinMaterials.cs" t="Include" />
+              <e p="CubismBuiltinShaders.cs" t="Include" />
+              <e p="CubismRenderController.cs" t="Include" />
+              <e p="CubismRenderer.cs" t="Include" />
+              <e p="CubismShaderVariables.cs" t="Include" />
+              <e p="CubismSortingMode.cs" t="Include" />
+              <e p="CubismSortingModeExtensionMethods.cs" t="Include" />
+              <e p="ICubismDrawOrderHandler.cs" t="Include" />
+              <e p="ICubismOpacityHandler.cs" t="Include" />
+              <e p="Masking" t="Include">
+                <e p="CubismMaskCommandBuffer.cs" t="Include" />
+                <e p="CubismMaskController.cs" t="Include" />
+                <e p="CubismMaskMaskedJunction.cs" t="Include" />
+                <e p="CubismMaskProperties.cs" t="Include" />
+                <e p="CubismMaskRenderer.cs" t="Include" />
+                <e p="CubismMaskRendererExtensionMethods.cs" t="Include" />
+                <e p="CubismMaskTexture.cs" t="Include" />
+                <e p="CubismMaskTile.cs" t="Include" />
+                <e p="CubismMaskTilePool.cs" t="Include" />
+                <e p="CubismMaskTransform.cs" t="Include" />
+                <e p="ICubismMaskCommandSource.cs" t="Include" />
+                <e p="ICubismMaskTextureCommandSource.cs" t="Include" />
+                <e p="IntExtensionMethods.cs" t="Include" />
+              </e>
+              <e p="Resources" t="Include">
+                <e p="Live2D" t="Include">
+                  <e p="Cubism" t="Include">
+                    <e p="Shaders" t="Include">
+                      <e p="CubismCG.cginc" t="Include" />
+                      <e p="Mask.shader" t="Include" />
+                      <e p="Unlit.shader" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="Samples" t="Include">
+              <e p="AsyncBenchmark" t="Include">
+                <e p="AsyncToggler.cs" t="Include" />
+                <e p="FpsCounter.cs" t="Include" />
+                <e p="ModelSpawner.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="ImportCustomization.cs" t="Include" />
+              </e>
+              <e p="LookAt" t="Include">
+                <e p="Billboarder.cs" t="Include" />
+              </e>
+              <e p="Masking" t="Include">
+                <e p="MaskTexturePreview.cs" t="Include" />
+              </e>
+              <e p="OriginalWorkflow" t="Include">
+                <e p="Demo" t="Include">
+                  <e p="CubismLookTarget.cs" t="Include" />
+                  <e p="CubismSampleController.cs" t="Include" />
+                </e>
+                <e p="Expression" t="Include">
+                  <e p="CubismExpressionPreview.cs" t="Include" />
+                </e>
+                <e p="Motion" t="Include">
+                  <e p="CubismMotionPreview.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Raycasting" t="Include">
+                <e p="RaycastHitDisplay.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="LogTimeMessage.cs" t="Include" />
+          <e p="PlayMovie.cs" t="Include" />
+          <e p="TouchBody.cs" t="Include" />
+          <e p="TouchHead.cs" t="Include" />
+          <e p="TouchSpecial.cs" t="Include" />
+        </e>
+      </e>
+      <e p="BLHXLIVE2DANIMATION.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

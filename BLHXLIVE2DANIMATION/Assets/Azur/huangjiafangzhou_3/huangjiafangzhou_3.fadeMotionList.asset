@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
+  m_Name: huangjiafangzhou_3.fadeMotionList
+  m_EditorClassIdentifier: 
+  MotionInstanceIds: 068bfefffa8afefff28afeff6660feff5e60feff5660feff4e60feff4660feff3e60feff3660feff2e60feff2660feff1e60feff1660feff
+  CubismFadeMotionObjects:
+  - {fileID: 11400000, guid: 3c6f9453597914a4a8df88ace547e7d0, type: 2}
+  - {fileID: 11400000, guid: 2bb0639a52f29ee41aee752c952a78e2, type: 2}
+  - {fileID: 11400000, guid: c30a104c66a494942bb864214c5b70df, type: 2}
+  - {fileID: 11400000, guid: 9a5228d30b409684f90c2fc86ff7d03e, type: 2}
+  - {fileID: 11400000, guid: 96c92a68177ef004cb06018cabdcc153, type: 2}
+  - {fileID: 11400000, guid: 017a85d9c1bc98f4fa0afe5b68173d95, type: 2}
+  - {fileID: 11400000, guid: 7b3e6079904177545be6edbc7a912e90, type: 2}
+  - {fileID: 11400000, guid: afd3ecb6125d49d489888904e227a850, type: 2}
+  - {fileID: 11400000, guid: 1f322b4d1356acc4ea76d08b8f35ff71, type: 2}
+  - {fileID: 11400000, guid: d4a095af384bb1743b16a9430e82ed87, type: 2}
+  - {fileID: 11400000, guid: 716060a0404188f4e92042e2ebe8020d, type: 2}
+  - {fileID: 11400000, guid: 57898e1b7aac7184489f602cbbcac5d9, type: 2}
+  - {fileID: 11400000, guid: 4389f402ea861084b8964a82d58f615f, type: 2}
+  - {fileID: 11400000, guid: c0684c6ae6560c243b30a7c943f20576, type: 2}
